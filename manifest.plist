@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://10.126.10.11/app/2.png</string>
+					<string>https://github.com/Xiemingming1988/CicoIpa/raw/master/2.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://10.126.10.11/app/1.png</string>
+					<string>https://github.com/Xiemingming1988/CicoIpa/raw/master/1.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
