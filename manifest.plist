@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://2256r570q1.51mypc.cn/apps/zhoushan.ipa</string>
+					<string>https://2256r570q1.51mypc.cn/apps/舟山阳光.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -43,7 +43,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://2256r570q1.51mypc.cn/apps/zhoushan-iPad%20(4th%20generation)-etc.ipa</string>
+					<string>https://2256r570q1.51mypc.cn/apps/舟山阳光-iPad%20(4th%20generation)-etc.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPad3,6</string>
@@ -58,7 +58,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://2256r570q1.51mypc.cn/apps/zhoushan-iPad%202-etc.ipa</string>
+					<string>https://2256r570q1.51mypc.cn/apps/舟山阳光-iPad%202-etc.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPad2,3</string>
@@ -74,7 +74,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://2256r570q1.51mypc.cn/apps/zhoushan-iPad%20Pro%20(12.9-inch)-etc.ipa</string>
+					<string>https://2256r570q1.51mypc.cn/apps/舟山阳光-iPad%20Pro%20(12.9-inch)-etc.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPad7,4</string>
@@ -108,7 +108,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://2256r570q1.51mypc.cn/apps/zhoushan-iPhone%206%20Plus-etc.ipa</string>
+					<string>https://2256r570q1.51mypc.cn/apps/舟山阳光-iPhone%206%20Plus-etc.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPhone10,2</string>
@@ -125,7 +125,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://2256r570q1.51mypc.cn/apps/zhoushan-iPhone%20SE-etc.ipa</string>
+					<string>https://2256r570q1.51mypc.cn/apps/舟山阳光-iPhone%20SE-etc.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPhone10,1</string>
@@ -144,7 +144,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://2256r570q1.51mypc.cn/apps/zhoushan-iPod%20touch-etc.ipa</string>
+					<string>https://2256r570q1.51mypc.cn/apps/舟山阳光-iPod%20touch-etc.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPhone5,2</string>
